@@ -13,4 +13,4 @@ Hướng dẫn sử dụng:
 
 [Tải ứng dụng](https://play.google.com/store/apps/details?id=com.kanthin.handbookgenshin)
 
-_Power by KanThin_
+_Power by Anh Khoa_
