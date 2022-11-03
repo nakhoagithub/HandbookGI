@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HandbookGenshin" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/second_primary_light</item>
+        <item name="colorSecondaryVariant">@color/second_primary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/color_text</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="image_item" parent="">
+        <item name="colorOnSurface">@color/white</item>
+        <item name="color">@color/white</item>
+        <item name="cornerSizeBottomRight">24dp</item>
+    </style>
+</resources>

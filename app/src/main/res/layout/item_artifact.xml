@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_select_item">
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:id="@+id/shimmer_item_artifact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="5dp"
+            app:cardUseCompatPadding="true">
+
+            <LinearLayout
+                android:id="@+id/layout_artifact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/background_1s"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/name_artifact"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/background_shimmer"
+                    android:drawablePadding="5dp"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:drawableStartCompat="@drawable/ic_start_text_artifact" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/image1_artifact"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginEnd="5dp"
+                        android:background="@drawable/background_shimmer"
+                        tools:ignore="ContentDescription" />
+
+                    <ImageView
+                        android:id="@+id/image2_artifact"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginEnd="5dp"
+                        android:background="@drawable/background_shimmer"
+                        tools:ignore="ContentDescription" />
+
+                    <ImageView
+                        android:id="@+id/image3_artifact"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginEnd="5dp"
+                        android:background="@drawable/background_shimmer"
+                        tools:ignore="ContentDescription" />
+
+                    <ImageView
+                        android:id="@+id/image4_artifact"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_marginEnd="5dp"
+                        android:background="@drawable/background_shimmer"
+                        tools:ignore="ContentDescription" />
+
+                    <ImageView
+                        android:id="@+id/image5_artifact"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/background_shimmer"
+                        tools:ignore="ContentDescription" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:id="@+id/attribute1_artifact"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/background_shimmer"
+                        android:ellipsize="end"
+                        android:lines="1"
+                        android:textColor="@color/white" />
+
+                    <TextView
+                        android:id="@+id/attribute2_artifact"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:background="@drawable/background_shimmer"
+                        android:ellipsize="end"
+                        android:lines="1"
+                        android:textColor="@color/white" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+</RelativeLayout>

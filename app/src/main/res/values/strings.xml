@@ -1,0 +1,315 @@
+<resources>
+    <string name="app_name" translatable="false">Handbook GI</string>
+    <string name="app_version" translatable="false">v1.3</string>
+
+    <string name="ads_id" translatable="false">ca-app-pub-1411988804312436~6288067054</string>
+    <string name="ads_idx" translatable="false">ca-app-pub-8308465518235821~1959433099</string>
+    <string name="ads_test_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="ads_banner" translatable="false">ca-app-pub-1411988804312436/4722410347</string>
+    <string name="ads_bannerx" translatable="false">ca-app-pub-8308465518235821/1336775669</string>
+    <string name="ads_test_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="welcome">Chào mừng bạn đến với Handbook GI!</string>
+    <string name="text_version">Phiên bản: %s</string>
+    <string name="double_click_out">Nhấn 1 lần nữa để thoát</string>
+    <string name="loading">Đang tải…</string>
+    <string name="error">Lỗi</string>
+    <string name="yes">Đồng ý</string>
+    <string name="no">Không đồng ý</string>
+    <string name="sending">Đang gửi…</string>
+    <string name="note_description">Lưu ý: Mô tả ngắn gọn hoặc không rõ ràng sẽ không được duyệt.</string>
+    <string name="thank_you_contribute">Đóng góp của bạn đang được kiểm duyệt. Cảm ơn bạn!</string>
+    <string name="copy_clipboard">Đã sao chép vào clipboard</string>
+
+    <string name="title_home">Trang chủ</string>
+    <string name="title_character">Nhân Vật</string>
+    <string name="title_weapon">Vũ Khí</string>
+    <string name="title_artifact">Thánh Di Vật</string>
+    <string name="title_material">Nguyên Liệu</string>
+    <string name="title_info_character">Thông tin Nhân Vật</string>
+    <string name="title_info_weapon">Thông tin Vũ Khí</string>
+    <string name="title_info_artifact">Thông tin Thánh Di Vật</string>
+    <string name="title_info_material">Thông tin Nguyên Liệu</string>
+    <string name="title_info_enemy">Thông tin Quái Vật</string>
+    <string name="title_info_element">Thông tin Nguyên Tố</string>
+    <string name="title_combat_parameter">Thông số Kỹ Năng</string>
+    <string name="title_contribute">Đóng góp</string>
+    <string name="title_domain">Bí Cảnh</string>
+    <string name="title_enemy">Quái vật</string>
+    <string name="title_food">Thực Phẩm</string>
+    <string name="title_info_food">Thông tin Thực Phẩm</string>
+    <string name="title_genshin_map" translatable="false">Genshin Map</string>
+    <string name="title_donate" translatable="false">Donate</string>
+    <string name="join_discord">Tham gia <b>Discord</b></string>
+    <string name="join_zalo">Tham gia <b>Zalo</b></string>
+    <string name="send_mail">Gửi <b>email</b></string>
+    <string name="update_app">Cập nhật ứng dụng</string>
+    <string name="new_version">Phiên bản mới: %1$s</string>
+
+    <string name="event_wish">Sự kiện cầu nguyện</string>
+    <string name="what_up_today">Hôm nay có gì?</string>
+    <string name="tool">Công cụ</string>
+    <string name="info">Thông tin</string>
+
+    <string name="contribute_build_character">Đóng góp cách xây dựng Nhân Vật</string>
+    <string name="genshin_map">Genshin Map</string>
+    <string name="foods">Thức ăn</string>
+    <string name="admob">Quảng cáo</string>
+
+    <string name="name">Tên</string>
+    <string name="full_name">Tên đầy đủ</string>
+    <string name="weapon">Vũ khí</string>
+    <string name="rarity">Độ hiếm</string>
+    <string name="vision" translatable="false">Vision</string>
+    <string name="gender">Giới tính</string>
+    <string name="birthday">Sinh nhật</string>
+    <string name="constellation">Cung mệnh</string>
+    <string name="region">Khu vực</string>
+    <string name="affiliation">Tổ chức</string>
+    <string name="sub_stats">Đột phá tăng</string>
+    <string name="description">Giới thiệu</string>
+    <string name="information">Thông tin</string>
+    <string name="male">nam</string>
+    <string name="female">nữ</string>
+    <string name="skill_character">Kỹ năng</string>
+    <string name="index">Chỉ số</string>
+    <string name="level">Cấp</string>
+    <string name="ascend">Đột phá</string>
+    <string name="ascend_character">Đột phá nhân vật</string>
+    <string name="attack">Tấn công</string>
+    <string name="defence">Phòng thủ</string>
+    <string name="bow">Cung</string>
+    <string name="sword">Kiếm Đơn</string>
+    <string name="catalyst">Pháp Khí</string>
+    <string name="polearm">Vũ Khí Cán Dài</string>
+    <string name="claymore">Trọng Kiếm</string>
+    <string name="element">Nguyên Tố</string>
+    <string name="pyro">Hỏa</string>
+    <string name="geo">Nham</string>
+    <string name="hydro">Thủy</string>
+    <string name="electro">Lôi</string>
+    <string name="cryo">Băng</string>
+    <string name="anemo">Phong</string>
+    <string name="dendro">Thảo</string>
+    <string name="costs_talent">Nguyên liệu nâng cấp kỹ năng</string>
+    <string name="passive">Thiên phú (kỹ năng bị động)</string>
+    <string name="update_passive1">Mở khóa khi đột phá cấp 1</string>
+    <string name="update_passive2">Mở khóa khi đột phá cấp 4</string>
+    <string name="material">Nguyên liệu</string>
+    <string name="rarity_augment">Độ hiếm tăng</string>
+    <string name="rarity_reduce">Độ hiếm giảm</string>
+    <string name="other_function">Chức năng khác</string>
+    <string name="type">Loại</string>
+    <string name="index_sub_stats">Chỉ số phụ</string>
+    <string name="effect_name">Tên hiệu</string>
+    <string name="not">Không có</string>
+    <string name="attribute_effect">Thuộc tính tinh luyện</string>
+    <string name="ascend_weapon">Đột phá vũ khí</string>
+    <string name="star">Sao</string>
+    <string name="info_set_artifact">Thông tin các món Thánh Di Vật</string>
+    <string name="index_artifact">Dòng chỉ số chính</string>
+    <string name="text_null">Trống</string>
+    <string name="earn">Kiếm được từ</string>
+    <string name="source">Nguồn</string>
+    <string name="day_open_domain">Ngày mở Bí Cảnh</string>
+    <string name="reset">Đặt lại</string>
+    <string name="not_result">Không có kết quả!</string>
+    <string name="not_data">Không có dữ liệu</string>
+    <string name="not_substat">Không dòng phụ</string>
+    <string name="menu" translatable="false">Menu</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="change_language">Thay đổi ngôn ngữ</string>
+    <string name="choose_lang">Chọn ngôn ngũ</string>
+    <string name="night_mode">Giao diện tối</string>
+    <string name="question_restart">Nhấn <b>Đồng ý</b> bạn sẽ khởi động lại ứng dụng.</string>
+    <string name="setting">Cài đặt</string>
+    <string name="show_info_character">Thông tin chi tiết nhân vật</string>
+    <string name="show_info_weapon">Thông tin chi tiết vũ khí</string>
+    <string name="character_building">Xây dựng nhân vật</string>
+    <string name="choose_character">Chọn Nhân Vật</string>
+    <string name="choose_weapon">Chọn Vũ Khí</string>
+    <string name="choose_set_artifact">Chọn bộ Thánh Di Vật</string>
+    <string name="set2_artifact">Bộ 2 món Thánh Di Vật</string>
+    <string name="set4_artifact">Bộ 4 món Thánh Di Vật</string>
+    <string name="choose_artifact">Chọn Thánh Di Vật</string>
+    <string name="set2_artifact_first">Bộ 2 món Thánh Di Vật thứ 1</string>
+    <string name="set2_artifact_second">Bộ 2 món Thánh Di Vật thứ 2</string>
+    <string name="mainstat_sand">Chỉ số chính Đồng Hồ</string>
+    <string name="mainstat_goblet">Chỉ số chính Ly</string>
+    <string name="mainstat_circlet">Chỉ số chính Nón</string>
+    <string name="des_artifact_contribute">Mô tả về bộ Thánh Di Vật mà bạn đóng góp</string>
+    <string name="incomplete_information">Thông tin chưa hoàn tất</string>
+    <string name="incomplete_description">Chưa hoàn thành mô tả</string>
+    <string name="domain_lv">Cấp độ Bí Cảnh</string>
+    <string name="disorder">Địa mạch bất thường</string>
+    <string name="recommended_element">Nguyên tố đề nghị</string>
+    <string name="recommended_level">Cấp đề nghị</string>
+    <string name="unlock_rank">Mở khóa khi đạt hạng mạo hiểm</string>
+    <string name="belong">Thuộc</string>
+    <string name="special_name">Tên đặc biệt</string>
+    <string name="domain">Bí Cảnh</string>
+    <string name="effect">Tác dụng</string>
+    <string name="delicious_food">Món Ngon</string>
+    <string name="normal_food">Món bình thường</string>
+    <string name="suspicious_food">Món kì lạ</string>
+
+    <string name="day2">Thứ 2</string>
+    <string name="day3">Thứ 3</string>
+    <string name="day4">Thứ 4</string>
+    <string name="day5">Thứ 5</string>
+    <string name="day6">Thứ 6</string>
+    <string name="day7">Thứ 7</string>
+    <string name="day1">Chủ Nhật</string>
+
+    <string name="enemy_boss">Boss</string>
+    <string name="enemy_common">Quái thường</string>
+    <string name="enemy_elite">Quái tinh anh</string>
+
+    <string name="filter_character">Lọc Nhân Vật</string>
+    <string name="filter_weapon">Lọc Vũ Khí</string>
+    <string name="filter_artifact">Lọc Thánh Di Vật</string>
+    <string name="filter_material">Lọc Nguyên Liệu</string>
+    <string name="filter_one_rarity">Chỉ lọc theo 1 độ hiếm được chọn</string>
+
+    <string name="set1">★ Bộ 1 món</string>
+    <string name="set2">★ Bộ 2 món</string>
+    <string name="set4">★ Bộ 4 món</string>
+
+    <string name="effect1">★ Tinh luyện 1</string>
+    <string name="effect2">★ Tinh luyện 2</string>
+    <string name="effect3">★ Tinh luyện 3</string>
+    <string name="effect4">★ Tinh luyện 4</string>
+    <string name="effect5">★ Tinh luyện 5</string>
+
+    <string name="info_flower"><b>✦ Hoa: </b>HP.</string>
+    <string name="info_plume"><b>✦ Lông: </b>Tấn công.</string>
+    <string name="info_sands"><b>✦ Đồng hồ </b>- Một trong các dòng sau: HP (%), Phòng Ngự (%), Tấn công (%), Hiệu Quả Nạp Nguyên Tố, Tinh Thông Nguyên Tố.</string>
+    <string name="info_goblet"><b>✦ Ly </b>- Một trong các dòng sau: HP (%), Phòng Ngự (%), Tấn công (%), Tăng Sát Thương Vật Lý, Tăng Sát Thương (Nguyên Tố), Tinh Thông Nguyên Tố.</string>
+    <string name="info_circlet"><b>✦ Nón </b>- Một trong các dòng sau: HP (%), Phòng Ngự (%), Tấn công (%), Tinh Thông Nguyên Tố, Tỷ Lệ Bạo Kích, ST Bạo Kích, Tăng Trị Liệu.</string>
+
+    <string name="rarity_1s">1 Sao</string>
+    <string name="rarity_2s">2 Sao</string>
+    <string name="rarity_3s">3 Sao</string>
+    <string name="rarity_4s">4 Sao</string>
+    <string name="rarity_5s">5 Sao</string>
+
+    <string name="choose_filter_character">Vui lòng chọn ít nhất 1 nguyên tố hoặc 1 loại vũ khí!</string>
+    <string name="choose_filter_weapon">Vui lòng chọn ít nhất 1 vũ khí hoặc chỉ số!</string>
+    <string name="choose_filter_material">Vui lòng chọn ít nhất 1 loại nguyên liệu</string>
+
+    <!--menu-->
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_character">Nhân vật</string>
+    <string name="nav_weapon">Vũ khí</string>
+    <string name="nav_material">Nguyên liệu</string>
+    <string name="nav_artifact">Thánh di vật</string>
+
+    <!--handler language game-->
+    <string name="attack_percent">Tấn Công</string>
+    <string name="elemental_mastery">Tinh Thông Nguyên Tố</string>
+    <string name="crit_rate">Tỷ Lệ Bạo Kích</string>
+    <string name="crit_dame">ST Bạo Kích</string>
+    <string name="energy_recharge">Hiệu Quả Nạp Nguyên Tố</string>
+    <string name="dame_physical">Tăng Sát Thương Vật Lý</string>
+    <string name="dame_element">Tăng Sát Thương (Nguyên Tố)</string>
+    <string name="healing_bonus">Tăng Trị Tiệu</string>
+    <string name="hp">HP</string>
+    <string name="def">Phòng Ngự</string>
+    <string name="material_game">Nguyên Liệu</string>
+    <string name="refinement_material">Nguyên Liệu Tinh Luyện</string>
+    <string name="material_weapon">Nguyên Liệu Đột Phá Vũ Khí</string>
+    <string name="material_talent">Nguyên Liệu Bồi Dưỡng Thiên Phú</string>
+    <string name="material_character">Nguyên Liệu Bồi Dưỡng Nhân Vật</string>
+    <string name="material_liyue">Đặc Sản Khu Vực Liyue</string>
+    <string name="material_monstadt">Đặc Sản Khu Vực Mondstadt</string>
+    <string name="material_inazuma">Đặc Sản Khu Vực Inazuma</string>
+    <string name="forging_ore">Quặng Đúc</string>
+    <string name="material_food">Nguyên Liệu Thực Phẩm</string>
+    <string name="food">Thực Phẩm</string>
+    <string name="fish">Cá</string>
+    <string name="currency">Tiền</string>
+    <string name="material_other">Nguyên Liệu Khác</string>
+    <string name="element_cryo">Nguyên Tố Băng</string>
+    <string name="element_pyro">Nguyên Tố Hỏa</string>
+    <string name="element_hydro">Nguyên Tố Thủy</string>
+    <string name="element_electro">Nguyên Tố Lôi</string>
+    <string name="element_dendro">Nguyên Tố Thảo</string>
+    <string name="element_geo">Nguyên Tố Nham</string>
+    <string name="element_anemo">Nguyên Tố Phong</string>
+    <string name="elemental_bursts">Năng Lượng Nguyên Tố</string>
+    <string name="domain_of_blessing">Bí Cảnh Chúc Phúc</string>
+
+    <string name="elemental_reaction">Phản ứng Nguyên Tố</string>
+    //game element
+    <string name="hoa_bochoi"><b>Bốc Hơi:</b> Tăng sát thương <font color="#bf2818"><b>Hỏa</b></font> lên x1.5 khi gặp Phản Ứng.</string>
+    <string name="hoa_dotchay"><b>Đốt Cháy:</b> Tăng lượng lớn sát thương <font color="#bf2818"><b>Hỏa</b></font>. Cỏ được coi là vật có hệ <font color="#51810e"><b>Thảo</b></font> và sẽ bốc cháy</string>
+    <string name="hoa_quatai"><b>Quá Tải:</b> Tăng sát thương diện rộng và tạo một vụ nổ.</string>
+    <string name="hoa_tanchay"><b>Tan Chảy:</b> Tăng sát thương <font color="#bf2818"><b>Hỏa</b></font> lên x2 khi gặp Phản Ứng.</string>
+    <string name="pyro_status">Áp dụng trạng thái <font color="#bf2818"><b>Hỏa</b></font>.</string>
+    <string name="pyro_note">Gây sát thương cho nhân vật theo thời gian</string>
+
+    <string name="thuy_bochoi"><b>Bốc Hơi:</b> Tăng sát thương <font color="#0b4dda"><b>Thủy</b></font> lên x2 khi gặp Phản Ứng.</string>
+    <string name="thuy_nhiemdien"><b>Nhiễm Điện:</b> Gây sát thương <font color="#9336b0"><b>Lôi</b></font> cho đến khi hết tác dụng, mỗi giây đều gây sốc và gián đoạn hành động. Nó tạo ra một tia sét và lan đến mục tiêu <font color="#0b4dda"><b>Ẩm Ướt</b></font>.</string>
+    <string name="thuy_dongcung"><b>Đông Cứng:</b> Đóng băng mục tiêu. Nếu mục tiêu đóng băng bị tấn công bởi Trọng Kiếm, Tấn công lao xuống bởi Kiếm Đơn hoặc bởi hệ <font color="#B68D07"><b>Nham</b></font> (trừ tấn công lao xuống của Pháp Khí), nó sẽ gây ra <font color="#4878a8"><b>Phá Băng</b></font>. <font color="#4878a8"><b>Phá Băng</b></font> mục tiêu đã đóng băng sẽ tăng sát thương vật lý.</string>
+    <string name="hydro_status">Áp dụng trạng thái <font color="#0b4dda"><b>Ẩm Ướt</b></font>.</string>
+    <string name="hydro_note">Nhân vật dễ bị thương khi đứng gần kẻ địch Nhiễm Điện</string>
+
+    <string name="thao_dotchay"><b>Đốt Cháy:</b> Tăng lượng lớn sát thương <font color="#bf2818"><b>Hỏa</b></font>. Cỏ được coi là vật có hệ <font color="#51810e"><b>Thảo</b></font> và sẽ bốc cháy.</string>
+    <string name="dendro_status">Áp dụng trạng thái <font color="#51810e"><b>Thảo</b></font>.</string>
+
+    <string name="loi_quatai"><b>Quá Tải:</b> Tăng sát thương diện rộng và tạo một vụ nổ.</string>
+    <string name="loi_nhiemdien"><b>Nhiễm Điện:</b> Gây sát thương <font color="#9336b0"><b>Lôi</b></font> cho đến khi hết tác dụng, mỗi giây đều gây sốc và gián đoạn hành động. Nó tạo ra một tia sét và lan đến mục tiêu <font color="#0b4dda"><b>Ẩm Ướt</b></font>.</string>
+    <string name="loi_sieudan"><b>Siêu Dẫn:</b> Tăng sát thương diện rộng của nguyên tố <font color="#4878a8"><b>Băng</b></font> và giảm kháng sát thương vật lý của mục tiêu đi 40% trong 12s.  Mỗi Phản Ứng Siêu Dẫn sẽ tăng sát thương lên mục tiêu trong tầm ảnh hưởng lên 1 lần, nghĩa là có 3 Phản Ứng Siêu Dẫn và có 3 mục tiêu trong tầm ảnh hưởng, mỗi mục tiêu phải nhận sát thương gấp 3 lần.</string>
+    <string name="electro_status">Áp dụng trạng thái <font color="#9336b0"><b>Lôi</b></font>.</string>
+    <string name="electro_note">Di chuyển và hành động của nhân vật bị dừng trong một khoảng thời gian</string>
+
+    <string name="phong_khechtan"><b>Khuếch Tán:</b> Kết hợp với một nguyên tố khác và tăng sát thương của nguyên tố đó đồng thời lan rộng ra các mục tiêu xung quanh.Lượng sát thương thấy được chỉ có một phần là sát thương nguyên tố <font color="#26a684"><b>Phong</b></font>. <b>Chỉ kết hợp được một nguyên tố cùng lúc với nguyên tố <font color="#26a684"><b>Phong</b></font>.</b></string>
+    <string name="anemo_status">Không</string>
+
+    <string name="bang_tanchay"><b>Tan Chảy:</b> Tăng sát thương <font color="#bf2818"><b>Hỏa</b></font> lên x2 khi gặp Phản Ứng.</string>
+    <string name="bang_dongcung"><b>Đông Cứng:</b> Đóng băng mục tiêu. Nếu mục tiêu đóng băng bị tấn công bởi Trọng Kiếm, Tấn công lao xuống bới Kiếm Đơn hoặc bởi hệ <font color="#B68D07"><b>Nham</b></font> (trừ tấn công lao xuống của Pháp Khí), nó sẽ <font color="#4878a8"><b>Phá Băng</b></font>. <font color="#4878a8"><b>Phá Băng</b></font> mục tiêu đã đóng băng sẽ tăng sát thương vật lí.</string>
+    <string name="bang_sieudan"><b>Siêu Dẫn:</b> Tăng sát thương diện rộng của nguyên tố <font color="#4878a8"><b>Băng</b></font> và giảm kháng sát thương vật lý của mục tiêu đi 40% trong 12s.  Mỗi Phản Ứng Siêu Dẫn sẽ tăng sát thương lên mục tiêu trong tầm ảnh hưởng lên 1 lần, nghĩa là có 3 Phản Ứng Siêu Dẫn và có 3 mục tiêu trong tầm ảnh hưởng, mỗi mục tiêu phải nhận sát thương gấp 3 lần.</string>
+    <string name="cryo_status">Áp dụng trạng thái <font color="#4878a8"><b>Băng</b></font>.</string>
+    <string name="cryo_note">Giảm tốc độ đánh và di chuyển</string>
+
+    <string name="nham_kettinh"><b>Kết Tinh:</b> Tạo ra một kết tinh có thuộc tính nguyên tố. Khi hấp thụ kết tinh, nhân vật sẽ có một lớp khiên bảo vệ.Chiếc khiên chống được mọi sát thương nhưng <b>nó hiệu quả khi chống lại sát thương <font color="#B68D07"><b>Nham</b></font>.</b></string>
+    <string name="geo_status">Không</string>
+
+
+    <string name="vi" translatable="false">Tiếng Việt (Default)</string>
+    <string name="en" translatable="false">English</string>
+
+    <!--text-->
+    <string name="mora" translatable="false">Mora</string>
+    <string name="sort_az" translatable="false">A -> Z</string>
+    <string name="sort_za" translatable="false">Z -> A</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="donate_vietcombank" translatable="false"><b>Vietcombank:</b> 0241004098394 - Nguyen Anh Khoa</string>
+    <string name="donate_momo" translatable="false"><b>Momo:</b> 0392732313 - Nguyen Anh Khoa</string>
+    <string name="stk_vcb" translatable="false">0241004098394</string>
+    <string name="stk_momo" translatable="false">0392732313</string>
+
+    <!--info -->
+    <string name="info_app">
+        {b}Thông tin tuyên bố{/b}\n
+        - Ứng dụng {b}Handbook GI{/b} là một ứng dụng cơ sở dữ liệu về game Genshin Impact.\n
+        - Toàn bộ dữ liệu được trích xuất từ Internet và ứng dụng này không có sự liên kết cũng như xác nhận từ miHoYo - Genshin Impact.\n\n
+        {b}Quyền và bảo mật{/b}\n
+        Ứng dụng sẽ không lấy bất cứ thông tin nào từ bạn trừ lượng truy cập của bạn nhằm
+        theo dõi và giúp cho việc cải thiện ứng dụng.\n\n
+        {b}Liên hệ góp ý:{/b}\n
+        Email: kanthindev@gmail.com
+        \n\n
+        {b}Một số lưu ý:{/b}\n
+        - Quảng cáo trong ứng dụng nhằm giúp {b}duy trì{/b} ứng dụng.\n
+        - Nếu ứng dụng gặp lỗi và dừng bất ngờ bạn hãy xóa dữ liệu ứng dụng và khởi động lại ứng dụng.\n
+        - Một số bản dịch có thể KHÔNG chính xác.\n
+        Mọi thắc mắc xin gửi email đến tôi hoặc tham gia {b}Discord{/b} để góp ý về sự cố.\n
+        Cảm ơn!
+        \n\n
+        {b}Lời cảm ơn{/b}\n
+        Chân thành gửi lời cảm ơn đến {b}theBowja{/b} là người/nhóm tổng hợp dữ liệu chính cũng là dữ liệu của ứng dụng.
+    </string>
+</resources>

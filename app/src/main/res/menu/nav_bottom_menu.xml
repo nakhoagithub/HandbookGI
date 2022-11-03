@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="@string/nav_home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/nav_character"
+        android:title="@string/nav_character"
+        android:icon="@drawable/ic_character"/>
+
+    <item android:id="@+id/nav_weapon"
+        android:title="@string/nav_weapon"
+        android:icon="@drawable/ic_weapon"/>
+
+    <item android:id="@+id/nav_artifact"
+        android:title="@string/nav_artifact"
+        android:icon="@drawable/ic_artifact"/>
+
+    <item android:id="@+id/nav_material"
+        android:title="@string/nav_material"
+        android:icon="@drawable/ic_material"/>
+</menu>

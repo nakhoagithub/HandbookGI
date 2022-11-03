@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00A173</color>
+    <color name="primary_light">#00A173</color>
+    <color name="primary_dark">#F1F1F1</color>
+
+    <color name="second_primary">#00897b</color>
+    <color name="second_primary_light">#4ebaaa</color>
+    <color name="second_primary_dark">#005b4f</color> <!-- chữ trắng -->
+    <color name="color_background">#F1F1F1</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_background_shimmer">#DDDDDD</color>
+    <color name="color_text">#1E1E1E</color>
+    <color name="color_stoke">#646464</color>
+    <color name="color_tint_image_button_click">#34000000</color>
+    //color dark
+
+    //color all multi theme
+    <color name="color_background_image_icon">#787878</color>
+    <color name="text_name_item">#495366</color>
+    <color name="color_tint_check_box_stat">#FFC107</color>
+
+    <color name="start_vip">#9E2E15</color>
+    <color name="end_vip">#B37859</color>
+    <color name="start_bg5s">#e0a750</color>
+    <color name="end_bg5s">#6a5453</color>
+    <color name="start_bg4s">#b585c6</color>
+    <color name="end_bg4s">#595482</color>
+    <color name="start_bg3s">#4a99af</color>
+    <color name="end_bg3s">#515475</color>
+    <color name="start_bg2s">#5b906b</color>
+    <color name="end_bg2s">#48575c</color>
+    <color name="start_bg1s">#7d8995</color>
+    <color name="end_bg1s">#4f5864</color>
+</resources>

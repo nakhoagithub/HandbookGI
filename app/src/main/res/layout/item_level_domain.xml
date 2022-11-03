@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="5dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:layout_margin="10dp"
+                android:src="@drawable/domain"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:id="@+id/name_level_domain"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <TextView
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:text="@string/disorder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/disorder_level_domain"
+            android:textStyle="italic"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:text="@string/recommended_element"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/not_recommended_element"
+            android:gravity="center"
+            android:text="@string/not"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:gravity="center"
+            android:padding="5dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/element1_level_domain"
+                android:layout_marginEnd="10dp"
+                android:src="@drawable/element_cryo"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/element2_level_domain"
+                android:layout_marginEnd="10dp"
+                android:src="@drawable/element_pyro"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/element3_level_domain"
+                android:layout_marginEnd="10dp"
+                android:src="@drawable/element_geo"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/element4_level_domain"
+                android:src="@drawable/element_hydro"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                tools:ignore="ContentDescription" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:weightSum="6"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:text="@string/recommended_level"
+                android:layout_weight="5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/recommended_level_domain"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:weightSum="6"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:text="@string/unlock_rank"
+                android:layout_weight="5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/recommended_rank_domain"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_item_level_domain"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

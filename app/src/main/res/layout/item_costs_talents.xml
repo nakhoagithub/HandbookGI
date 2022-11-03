@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="5dp"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+    <TextView
+        android:id="@+id/lv_costs_talent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_material_costs_talent"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="9" />
+
+    <TextView
+        android:visibility="gone"
+        android:gravity="center"
+        android:text="@string/material"
+        android:id="@+id/title_material_costs_talent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="9" />
+</LinearLayout>

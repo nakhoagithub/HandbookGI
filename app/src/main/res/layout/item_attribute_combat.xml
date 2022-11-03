@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/label_attribute_combat"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"/>
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv1_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv2_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv3_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv4_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv5_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv6_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv7_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv8_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv9_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv10_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv11_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv12_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv13_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv14_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="@color/color_stoke"
+            android:layout_width="@dimen/stoke"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/lv15_attribute_combat"
+            android:padding="5dp"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:background="@color/color_stoke"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/stoke"/>
+</LinearLayout>

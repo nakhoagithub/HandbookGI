@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="yes">Agree</string>
+    <string name="no">Disagree</string>
+    <string name="title_home">Home</string>
+    <string name="title_character">Character</string>
+    <string name="title_weapon">Weapon</string>
+    <string name="title_artifact">Artifact</string>
+    <string name="title_material">Material</string>
+    <string name="title_info_character">Character Information</string>
+    <string name="title_info_weapon">Weapon Information</string>
+    <string name="title_info_artifact">Artifact Information</string>
+    <string name="title_info_material">Material Information</string>
+    <string name="event_wish">Wish Event</string>
+    <string name="what_up_today">What\'s up today?</string>
+    <string name="tool">Tools</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="weapon">Weapon</string>
+    <string name="rarity">Rarity</string>
+    <string name="gender">Gender</string>
+    <string name="birthday">Birthday</string>
+    <string name="constellation">Constellation</string>
+    <string name="region">Region</string>
+    <string name="affiliation">Nation</string>
+    <string name="information">Info</string>
+    <string name="skill_character">Skill</string>
+    <string name="index">Index</string>
+    <string name="level">Lever</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_character">Character</string>
+    <string name="nav_weapon">Weapon</string>
+    <string name="nav_material">Material</string>
+    <string name="nav_artifact">Artifact</string>
+    <string name="attack_percent">ATK</string>
+    <string name="text_version">Version: %s</string>
+    <string name="sub_stats">SubStat</string>
+    <string name="ascend">Ascend</string>
+    <string name="ascend_character">Character Ascend</string>
+    <string name="attack">ATK</string>
+    <string name="polearm">Polearm</string>
+    <string name="claymore">Claymore</string>
+    <string name="catalyst">Catalyst</string>
+    <string name="sword">Sword</string>
+    <string name="bow">Bow</string>
+    <string name="defence">DEF</string>
+    <string name="element">Element</string>
+    <string name="pyro">Pyro</string>
+    <string name="geo">Geo</string>
+    <string name="hydro">Hydro</string>
+    <string name="electro">Electro</string>
+    <string name="cryo">Cryo</string>
+    <string name="anemo">Anemo</string>
+    <string name="dendro">Dendro</string>
+    <string name="costs_talent">Material UP Talent</string>
+    <string name="passive">Passive Talent</string>
+    <string name="update_passive1">Unclock at ascension level 1</string>
+    <string name="update_passive2">Unclock at ascension level 4</string>
+    <string name="material">Material</string>
+    <string name="rarity_augment">Rarity Augment</string>
+    <string name="rarity_reduce">Rarity Reduce</string>
+    <string name="other_function">Other Function</string>
+    <string name="type">Type</string>
+    <string name="index_sub_stats">Seccond index</string>
+    <string name="effect_name">Effect name</string>
+    <string name="not">Not</string>
+    <string name="attribute_effect">Refinements</string>
+    <string name="ascend_weapon">Weapon ascend</string>
+    <string name="star">Star</string>
+    <string name="info_set_artifact">Information Artifact</string>
+    <string name="index_artifact">Index</string>
+    <string name="text_null">Hollow</string>
+    <string name="earn">Earn</string>
+    <string name="source">Source</string>
+    <string name="day_open_domain">Day open Domain</string>
+    <string name="reset">Reset</string>
+    <string name="not_result">Not result</string>
+    <string name="not_substat">Not Substat</string>
+    <string name="choose_lang">Choose language</string>
+    <string name="change_language">Change language</string>
+    <string name="setting">Setting</string>
+    <string name="show_info_character">Character Information</string>
+    <string name="show_info_weapon">Weapon Information</string>
+    <string name="filter_character">Character filter</string>
+    <string name="filter_weapon">Weapon filter</string>
+    <string name="filter_artifact">Artifact filter</string>
+    <string name="filter_one_rarity">Filter by only 1 selected rarity</string>
+    <string name="join_discord">Join <b>Discord</b></string>
+    <string name="send_mail">Send <b>email</b></string>
+    <string name="set1">★ Set 1</string>
+    <string name="set2" >★ Set 2</string>
+    <string name="set4" >★ Set 4</string>
+    <string name="effect1">★ Refinement 1</string>
+    <string name="effect2">★ Refinement 2</string>
+    <string name="effect3">★ Refinement 3</string>
+    <string name="effect4">★ Refinement 4</string>
+    <string name="effect5">★ Refinement 5</string>
+    <string name="info_flower"><b>✦ Flower: </b>HP.</string>
+    <string name="info_plume"><b>✦ Plume: </b>Attack.</string>
+    <string name="info_sands"><b>✦ Clock </b>- One of the following indicators: HP (%), DEF (%), ATK (%), Energy Recharge, Elemental Mastery.</string>
+    <string name="info_goblet"><b>✦ Goblet </b>- One of the following indicators: HP (%), DEF (%), ATK (%), Physical DMG Bonus, DMG Bonus (Element), Elemental Mastery.</string>
+    <string name="info_circlet"><b>✦ Cirlet </b>- One of the following indicators: HP (%), DEF (%), ATK (%), Elemental Mastery, CRIT Rate, CRIT DMG, Healing Bonus.</string>
+    <string name="rarity_1s">1 Star</string>
+    <string name="rarity_2s">2 Star</string>
+    <string name="rarity_3s">3 Star</string>
+    <string name="rarity_4s">4 Star</string>
+    <string name="rarity_5s">5 Star</string>
+    <string name="choose_filter_character">Please select at least 1 element or 1 weapon!</string>
+    <string name="choose_filter_weapon">Please select at least 1 weapon or 1 substat!</string>
+    <string name="elemental_mastery">Elemental Mastery</string>
+    <string name="crit_rate">CRIT Rate</string>
+    <string name="crit_dame">CRIT DMG</string>
+    <string name="energy_recharge">Energy Recharge</string>
+    <string name="dame_physical">Physical DMG Bonus</string>
+    <string name="hp">HP</string>
+    <string name="def">DEF</string>
+    <string name="material_game">Material</string>
+    <string name="refinement_material">Refinement Material</string>
+    <string name="material_weapon" >Weapon Ascension Material</string>
+    <string name="material_talent">Talent Level-Up Material</string>
+    <string name="material_character">Character Level-Up Material</string>
+    <string name="material_liyue">Local Specialty (Liyue)</string>
+    <string name="material_monstadt">Local Specialty (Mondstadt)</string>
+    <string name="material_inazuma">Local Specialty (Inazuma)</string>
+    <string name="forging_ore">Forging Ore</string>
+    <string name="currency">Currency</string>
+    <string name="material_other">Other Material</string>
+    <string name="fish">Fish</string>
+    <string name="food">Food</string>
+    <string name="material_food">Cooking Ingredient</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="element_cryo">Cryo</string>
+    <string name="element_pyro">Pyro</string>
+    <string name="element_hydro">Hydro</string>
+    <string name="element_electro">Electro</string>
+    <string name="element_dendro">Dendro</string>
+    <string name="element_geo">Geo</string>
+    <string name="element_anemo">Anemo</string>
+    <string name="elemental_bursts">Elemental Bursts</string>
+    <string name="double_click_out">Press 1 more time to exit</string>
+    <string name="filter_material">Material filter</string>
+    <string name="night_mode">Night mode</string>
+    <string name="welcome">Welcome to Handbook GI!</string>
+    <string name="language">Language</string>
+
+    <string name="day1">Sunday</string>
+    <string name="day2">Monday</string>
+    <string name="day3">Tuesday</string>
+    <string name="day4">Wednesday</string>
+    <string name="day5">Thursday</string>
+    <string name="day6">Friday</string>
+    <string name="day7">Saturday</string>
+
+    <string name="choose_filter_material">Please select at least 1 material!</string>
+    <string name="domain">Domain</string>
+    <string name="title_enemy">Enemy</string>
+    <string name="title_contribute">Contribute</string>
+    <string name="genshin_map">Genshin Map</string>
+    <string name="foods">Food</string>
+    <string name="info">Information</string>
+    <string name="admob">Advertisement</string>
+    <string name="title_combat_parameter">Combat Parameter</string>
+    <string name="character_building">Character build</string>
+    <string name="choose_character">Choose Character</string>
+    <string name="choose_set_artifact">Choose set Artifact</string>
+    <string name="set2_artifact">Set of 2 Artifact</string>
+    <string name="set4_artifact">Set of 4 Artifact</string>
+    <string name="choose_artifact">Choose Artifact</string>
+    <string name="description">Description</string>
+    <string name="des_artifact_contribute">Description of the set of Artifact you contributed</string>
+    <string name="set2_artifact_first">Set of 2 Artifact first</string>
+    <string name="set2_artifact_second">Set of 2 Artifact second</string>
+    <string name="contribute_build_character">Contribute to building Character</string>
+    <string name="mainstat_sand">Main-stat Sand</string>
+    <string name="mainstat_goblet">Main-stat Goblet</string>
+    <string name="mainstat_circlet">Main-stat Circlet</string>
+    <string name="dame_element">DMG Bonus (Element)</string>
+    <string name="healing_bonus">Healing Bonus</string>
+    <string name="incomplete_information">Incomplete information</string>
+    <string name="incomplete_description">Description not completed yet</string>
+    <string name="thank_you_contribute">Your contribution is being moderated. Thank you!</string>
+    <string name="sending">Sending…</string>
+    <string name="question_restart">Press <b>Agree</b> you will restart the application.</string>
+    <string name="choose_weapon">Choose Weapon</string>
+    <string name="not_data">Not data</string>
+    <string name="note_description">Note: Short or unclear descriptions will not be approved.</string>
+    <string name="title_domain">Domain</string>
+    <string name="domain_lv">Domain Level</string>
+    <string name="recommended_element">Recommended element</string>
+    <string name="recommended_level">Recommended level</string>
+    <string name="unlock_rank">Unlock rank</string>
+    <string name="disorder">Disorder</string>
+    <string name="domain_of_blessing">Domain of Blessing</string>
+    <string name="title_info_enemy">Enemy Information</string>
+    <string name="belong">Belong</string>
+    <string name="special_name">Special name</string>
+    <string name="enemy_boss">Boss</string>
+    <string name="enemy_common">Normal enemy</string>
+    <string name="enemy_elite">Elite enemy</string>
+    <string name="hoa_bochoi"><b>Vaporize:</b> Deals ×1.5 <font color="#bf2818"><b>Pyro</b></font> DMG when a <font color="#bf2818"><b>Pyro</b></font> attack triggers the reaction.</string>
+    <string name="hoa_dotchay"><b>Burning:</b> Deals large <font color="#bf2818"><b>Pyro</b></font> DMG over time. Grass is considered a <font color="#51810e"><b>Dendro</b></font> object and will spread the burn effect around the area.</string>
+    <string name="hoa_quatai"><b>Overloaded:</b> Deals AoE <font color="#bf2818"><b>Pyro</b></font> DMG and causes an explosion. The explosion generated is considered as a Heavy Attack.</string>
+    <string name="hoa_tanchay"><b>Melt:</b> Deals ×2 <font color="#bf2818"><b>Pyro</b></font> DMG when a <font color="#bf2818"><b>Pyro</b></font> attack triggers the reaction.</string>
+    <string name="thuy_bochoi"><b>Vaporize:</b> Deals ×2 <font color="#0b4dda"><b>Hydro</b></font> DMG when a <font color="#0b4dda"><b>Hydro</b></font> attack triggers the reaction.</string>
+    <string name="thuy_nhiemdien"><b>Electro-Charged:</b> Deals <font color="#9336b0"><b>Electro</b></font> DMG over time until the effect wears off, every tick shocks and interrupts any action. It also creates a lightning bolt that jumps to one nearby <font color="#0b4dda"><b>Wet</b></font> target, dealing <font color="#9336b0"><b>Electro</b></font> DMG.</string>
+    <string name="thuy_dongcung"><b>Frozen:</b> Freezes the target. If the frozen target is hit by a Claymore, a Sword Plunge Attack, or <font color="#B68D07"><b>Geo</b></font> DMG (excluding Catalyst user\'s Plunge), it will cause Shattered. Shattering a frozen target will deal additional Physical damage.</string>
+    <string name="thao_dotchay"><b>Burning:</b> Deals <font color="#bf2818"><b>Pyro</b></font> DMG over time. Grass is considered a <font color="#51810e"><b>Dendro</b></font> object and will spread the burn effect around the area.</string>
+    <string name="loi_quatai"><b>Overloaded:</b> Deals AoE <font color="#bf2818"><b>Pyro</b></font> DMG and causes an explosion. The explosion generated is considered as a Heavy Attack.</string>
+    <string name="loi_nhiemdien"><b>Electro-Charged:</b> Deals <font color="#9336b0"><b>Electro</b></font> DMG over time until the effect wears off, every tick shocks and interrupts any action. It also creates a lightning bolt that jumps to one nearby <font color="#0b4dda"><b>Wet</b></font> target, dealing <font color="#9336b0"><b>Electro</b></font> DMG.</string>
+    <string name="loi_sieudan"><b>Superconduct:</b> Deals AoE <font color="#4878a8"><b>Cryo</b></font> DMG and reduces the target\'s Physical DMG Resistance by -40% for 12 seconds. Each Superconduct reaction deals DMG to targets within its range once, meaning if there are 3 Superconduct reactions, given all 3 targets are within the reactions\' AoE, each target will take DMG 3 times.</string>
+    <string name="phong_khechtan"><b>Swirl:</b> Infuses an element and deals that elemental damage while spreading the effect to nearby enemies. It does not deal <font color="#26a684"><b>Anemo</b></font> damage (as that elemental damage seen comes from the talent that is dealing the <font color="#26a684"><b>Anemo</b></font> element). <b>Only one element at a time can be infused with <font color="#26a684"><b>Anemo</b></font>.</b></string>
+    <string name="bang_tanchay"><b>Melt:</b> Deals ×1.5 <font color="#4878a8"><b>Cryo</b></font> DMG when a <font color="#4878a8"><b>Cryo</b></font> attack triggers the reaction.</string>
+    <string name="bang_dongcung"><b>Frozen:</b> Freezes the target. If the frozen target is hit by a Claymore, a Sword Plunge Attack, or <font color="#B68D07"><b>Geo</b></font> DMG (excluding Catalyst user\'s Plunge), it will cause Shattered. Shattering a frozen target will deal additional Physical damage.</string>
+    <string name="bang_sieudan"><b>Superconduct:</b> Deals AoE <font color="#4878a8"><b>Cryo</b></font> DMG and reduces the target\'s Physical DMG Resistance by -40% for 12 seconds. Each Superconduct reaction deals DMG to targets within its range once, meaning if there are 3 Superconduct reactions, given all 3 targets are within the reactions\' AoE, each target will take DMG 3 times.</string>
+    <string name="nham_kettinh"><b>Crystallize:</b> Absorbs the element and drops a <b>crystal of that same element.</b> The crystal will give an elemental shield. The shield absorbs all types of damage, <b>but it protects more efficiently against the shield\'s element.</b></string>
+    <string name="pyro_status">Applies the <font color="#bf2818"><b>Pyro</b></font> status.</string>
+    <string name="pyro_note">Makes the character take damage over time</string>
+    <string name="hydro_status">Applies the <font color="#0b4dda"><b>Wet</b></font> status.</string>
+    <string name="hydro_note">Makes character vulnerable to damage from nearby Electro-Charged enemies</string>
+    <string name="dendro_status">Applies the <font color="#51810e"><b>Dendro</b></font> status.</string>
+    <string name="electro_status">Applies the <font color="#9336b0"><b>Electro</b></font> status.</string>
+    <string name="electro_note">Causes character movement and attacks to stop momentarily</string>
+    <string name="anemo_status">Not</string>
+    <string name="cryo_status">Applies the <font color="#4878a8"><b>Cryo</b></font> status.</string>
+    <string name="cryo_note">Reduces Movement Speed and Attack Speed</string>
+    <string name="geo_status">Not</string>
+    <string name="title_info_element">Element Information</string>
+    <string name="elemental_reaction">Elemental Reaction</string>
+    <string name="title_food">Food</string>
+    <string name="title_info_food">Food Information</string>
+    <string name="effect">Effect</string>
+    <string name="delicious_food">Dilicious Foods</string>
+    <string name="normal_food">Normal Foods</string>
+    <string name="suspicious_food">Suspicious Foods</string>
+
+    <string name="info_app" >
+        {b}Declare Information{/b}\n
+        - The {b}Handbook GI{/b} application is a database application for the game Genshin Impact.\n
+        - All data is extracted from the Internet and this application has no affiliation and endorsement from miHoYo - Genshin Impact.\n\n
+        {b}Privacy{/b}\n
+        The app will not take any information from you except your traffic to track and help improve the app.\n\n
+        {b} Contact for suggestions: {/b}\n
+        Email: kanthindev@gmail.com
+        \n\n
+        {b} Some guidance: {/b}\n
+        - In-app advertising to help maintain the app.
+        - If the app crashes and stops unexpectedly, please clear the app data application and restart the application.\n
+        - Some translations may NOT be accurate.\n
+        Any questions please email me or join {b}Discord{/b} to comment on the problem.\n
+        Thanks!
+        \n\n
+        {b}Thank you{/b}\n
+        A big thank you to {b}theBowja{/b} who is the main data aggregator/team of the app.
+    </string>
+
+    <string name="copy_clipboard">Copy to clipboard</string>
+    <string name="update_app">Application update</string>
+    <string name="new_version">New version: %1$s</string>
+    <string name="join_zalo">Join <b>Zalo</b> (Vietnam)</string>
+</resources>
